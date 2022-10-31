@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #14101a !important;
+}
+
+.container {
+    margin-top: 30px;
+    color: #cbcbcb;
+}
+
+.summary-row {
+    margin-top: 25px !important;
+}
+
+.recovered-data {
+    color: #2fb52f;
+}
+
+.deaths-data {
+    color: #dd3636;
+}
+
+select {
+    font: 400 12px/1.3 sans-serif;
+    line-height: 1;
+    outline: 0;
+    padding: 0.3em 3em 0.3em 0.3em;
+    margin-left: 15px !important;
+}
